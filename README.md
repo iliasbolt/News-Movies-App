@@ -1,6 +1,6 @@
 # News-Movies-App
 
-*--- i create an android App (You gonna found it in the other repository)the goal of this App is get you The latest News and Movies
+*--- i create an android App (Java)_(You gonna found it in the other repository)the goal of this App is get you The latest News and Movies
 withous creating an Account or login Stuffs 
 so i devoloped to see the latest movies and news
 the app with no database 
